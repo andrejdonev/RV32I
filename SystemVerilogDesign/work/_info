@@ -1,0 +1,454 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign
+valu
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 DXx4 work 8 risc_pkg 0 22 Ro^XImI61bERo`]]:BlbW1
+DXx4 work 11 alu_sv_unit 0 22 lOV=S>UiYVmh:imZ>0AVT2
+Z3 !s110 1791617669
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 HOST>n14`mSYRIIASCJWE3
+I:9?TYAAc?XZF[6e1n?2:?3
+!s105 alu_sv_unit
+S1
+R0
+Z5 w1791488055
+Z6 8C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/alu.sv
+Z7 FC:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/alu.sv
+!i122 17
+L0 3 43
+Z8 OV;L;2020.1;71
+31
+Z9 !s108 1791617669.000000
+Z10 !s107 C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/alu.sv|
+Z11 !s90 -reportprogress|300|-work|work|C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/alu.sv|
+!i113 1
+Z12 o-work work
+Z13 tCvgOpt 0
+Xalu_sv_unit
+R1
+R2
+R3
+VlOV=S>UiYVmh:imZ>0AVT2
+r1
+!s85 0
+!i10b 1
+!s100 I=kLnT<H?3hgNo0ed9BL52
+IlOV=S>UiYVmh:imZ>0AVT2
+!i103 1
+S1
+R0
+R5
+R6
+R7
+!i122 17
+Z14 L0 1 0
+R8
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vbranch_control
+R1
+R2
+DXx4 work 22 branch_control_sv_unit 0 22 jlf^h=HE[?DITEN9P<3jg3
+R3
+R4
+r1
+!s85 0
+!i10b 1
+!s100 ?Xc1NNY_69FR_]Q;YRC<E3
+IWiX82UCGgnFlECaU1Af?@2
+!s105 branch_control_sv_unit
+S1
+R0
+Z15 w1791534818
+Z16 8C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/branch_control.sv
+Z17 FC:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/branch_control.sv
+!i122 18
+L0 3 34
+R8
+31
+R9
+Z18 !s107 C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/branch_control.sv|
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/branch_control.sv|
+!i113 1
+R12
+R13
+Xbranch_control_sv_unit
+R1
+R2
+R3
+Vjlf^h=HE[?DITEN9P<3jg3
+r1
+!s85 0
+!i10b 1
+!s100 LU6hZQXE[<ARMR^4FV<lD2
+Ijlf^h=HE[?DITEN9P<3jg3
+!i103 1
+S1
+R0
+R15
+R16
+R17
+!i122 18
+R14
+R8
+31
+R9
+R18
+R19
+!i113 1
+R12
+R13
+vcontrol
+R1
+R2
+DXx4 work 15 control_sv_unit 0 22 M;3QQ=fQF6zSc;eHWW2ce0
+R3
+R4
+r1
+!s85 0
+!i10b 1
+!s100 ;UL`Y>znR9HWVP0S4VbC@1
+I>>eLGnl@@2zUUecO=n6:U2
+!s105 control_sv_unit
+S1
+R0
+Z20 w1791617287
+Z21 8C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/control.sv
+Z22 FC:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/control.sv
+!i122 19
+L0 3 160
+R8
+31
+R9
+Z23 !s107 C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/control.sv|
+Z24 !s90 -reportprogress|300|-work|work|C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/control.sv|
+!i113 1
+R12
+R13
+Xcontrol_sv_unit
+R1
+R2
+R3
+VM;3QQ=fQF6zSc;eHWW2ce0
+r1
+!s85 0
+!i10b 1
+!s100 g3KI19dV:gjm3_ng]mZ]A0
+IM;3QQ=fQF6zSc;eHWW2ce0
+!i103 1
+S1
+R0
+R20
+R21
+R22
+!i122 19
+R14
+R8
+31
+R9
+R23
+R24
+!i113 1
+R12
+R13
+vdata_memory
+R1
+R2
+DXx4 work 19 data_memory_sv_unit 0 22 _6EkIWiWW`13bgU?R`@Y63
+Z25 !s110 1791617670
+R4
+r1
+!s85 0
+!i10b 1
+!s100 V3R`Qna827J<ZiA_2fF5L1
+IF_DI_j^ZS_Gf@mT_oz]l03
+!s105 data_memory_sv_unit
+S1
+R0
+Z26 w1791534354
+Z27 8C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/data_memory.sv
+Z28 FC:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/data_memory.sv
+!i122 20
+L0 3 52
+R8
+31
+R9
+Z29 !s107 C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/data_memory.sv|
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/data_memory.sv|
+!i113 1
+R12
+R13
+Xdata_memory_sv_unit
+R1
+R2
+R25
+V_6EkIWiWW`13bgU?R`@Y63
+r1
+!s85 0
+!i10b 1
+!s100 UbFPYBoE2><Q>fjmej3ZC3
+I_6EkIWiWW`13bgU?R`@Y63
+!i103 1
+S1
+R0
+R26
+R27
+R28
+!i122 20
+R14
+R8
+31
+R9
+R29
+R30
+!i113 1
+R12
+R13
+vdecode
+R1
+R2
+DXx4 work 14 decode_sv_unit 0 22 6zV423IR<FU?ACMA2=ia61
+R25
+R4
+r1
+!s85 0
+!i10b 1
+!s100 WcJJcjFZ2J>GTfRXZ;ZU=1
+IhM5Ibod=O@=g4zfJA>ZKL0
+!s105 decode_sv_unit
+S1
+R0
+Z31 w1790685788
+Z32 8C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/decode.sv
+Z33 FC:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/decode.sv
+!i122 21
+L0 3 72
+R8
+31
+Z34 !s108 1791617670.000000
+Z35 !s107 C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/decode.sv|
+Z36 !s90 -reportprogress|300|-work|work|C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/decode.sv|
+!i113 1
+R12
+R13
+Xdecode_sv_unit
+R1
+R2
+R25
+V6zV423IR<FU?ACMA2=ia61
+r1
+!s85 0
+!i10b 1
+!s100 ?4Vk0XeCf_CHZEo5cjoM]0
+I6zV423IR<FU?ACMA2=ia61
+!i103 1
+S1
+R0
+R31
+R32
+R33
+!i122 21
+R14
+R8
+31
+R34
+R35
+R36
+!i113 1
+R12
+R13
+vfetch
+R1
+R25
+!i10b 1
+!s100 _SUBUm1>C:7G`T=3BWm:_1
+Z37 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IT>a>jejS`kJR<e:9dOZc03
+R4
+S1
+R0
+w1790685789
+8C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/fetch.sv
+FC:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/fetch.sv
+!i122 22
+L0 1 30
+R8
+r1
+!s85 0
+31
+R34
+!s107 C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/fetch.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/fetch.sv|
+!i113 1
+R12
+R13
+vinstruction_memory
+R1
+R25
+!i10b 1
+!s100 4;hh<NB=`CP=Kz^mWW9LU1
+R37
+I18RbMhm<Bhn7gkgbGbmk?0
+R4
+S1
+R0
+Z38 w1790685790
+8C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/instruction_memory.sv
+FC:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/instruction_memory.sv
+!i122 23
+L0 1 32
+R8
+r1
+!s85 0
+31
+R34
+!s107 C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/instruction_memory.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/instruction_memory.sv|
+!i113 1
+R12
+R13
+vregister_file
+R1
+R25
+!i10b 1
+!s100 8o@2[PMl`3B3CRIHj[S3?0
+R37
+IZnXJHI0LC;=HCbF4>kI^93
+R4
+S1
+R0
+R38
+8C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/register_file.sv
+FC:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/register_file.sv
+!i122 24
+L0 1 37
+R8
+r1
+!s85 0
+31
+R34
+!s107 C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/register_file.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/register_file.sv|
+!i113 1
+R12
+R13
+Xrisc_pkg
+R1
+R25
+!i10b 1
+!s100 Jf2ni[nE<Z[Y6bkNG@0oY3
+R37
+IRo^XImI61bERo`]]:BlbW1
+VRo^XImI61bERo`]]:BlbW1
+S1
+R0
+R5
+8C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/risc_pkg.sv
+FC:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/risc_pkg.sv
+!i122 25
+L0 3 0
+R8
+r1
+!s85 0
+31
+R34
+!s107 C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/risc_pkg.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/risc_pkg.sv|
+!i113 1
+R12
+R13
+vtest_bench
+R1
+R25
+!i10b 1
+!s100 lBi@jL_^cZOzeOjNZnRk71
+R37
+I>WL`bA9eo]g7FRa1Vk=613
+R4
+S1
+R0
+w1791616823
+8C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/test_bench.sv
+FC:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/test_bench.sv
+!i122 26
+L0 1 38
+R8
+r1
+!s85 0
+31
+R34
+!s107 C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/test_bench.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/test_bench.sv|
+!i113 1
+R12
+R13
+vtop
+R1
+R2
+DXx4 work 11 top_sv_unit 0 22 SjBA9LA9kZN1:n7bc2Rec1
+R25
+R4
+r1
+!s85 0
+!i10b 1
+!s100 PRZnQm7e_1Dg01j63Zl6j0
+I_SlWW6fbR>Ne^i]>2hAag0
+!s105 top_sv_unit
+S1
+R0
+Z39 w1791617078
+Z40 8C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/top.sv
+Z41 FC:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/top.sv
+!i122 27
+L0 3 181
+R8
+31
+R34
+!s107 C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/top.sv|
+Z42 !s90 -reportprogress|300|-work|work|C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/top.sv|
+!i113 1
+R12
+R13
+Xtop_sv_unit
+R1
+R2
+R25
+VSjBA9LA9kZN1:n7bc2Rec1
+r1
+!s85 0
+!i10b 1
+!s100 To62QTNXWQF<H>z:D6dlS3
+ISjBA9LA9kZN1:n7bc2Rec1
+!i103 1
+S1
+R0
+R39
+R40
+R41
+!i122 27
+R14
+R8
+31
+R34
+Z43 !s107 C:/Users/andre/Andrej/Workspace/MyProjects/RV32I/SystemVerilogDesign/top.sv|
+R42
+!i113 1
+R12
+R13
